@@ -1,4 +1,4 @@
-# Voice Controlled React News Application - Alan AI Voice Assistant
+# PORTFOLIO USING REACTJS
 
 ### [Live Site](https://divya-react-portfolio.netlify.app/)
 
