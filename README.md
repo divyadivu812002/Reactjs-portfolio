@@ -5,7 +5,7 @@
 
 
 ## Introduction
-Here is my portfolio live site  
+Here is my live portfolio site  
 
 Setup:
 - run ```npm i && npm start``` to start development server
